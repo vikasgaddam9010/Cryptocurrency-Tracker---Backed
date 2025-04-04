@@ -11,7 +11,7 @@ app.get('/api/cryptocurrency/', async (req, res) => {
   const options = {
     method: 'GET',
     headers: {
-      'X-CMC_PRO_API_KEY': 'b861a916-55d9-4b48-ae1c-3e76e2c478f0', 
+      'X-CMC_PRO_API_KEY': '114e2469-4907-408b-9f81-4fd9c5948d06', 
     },
   };
 
